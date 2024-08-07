@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/fa2977b2-0899-4867-919c-2fda0c357a86)
+
 # 👋 Hello, I’m Vladimir!
 
 Welcome to my GitHub profile! I’m Vladimir, a passionate software developer with a love for creative problem-solving, and open-source collaboration. 
