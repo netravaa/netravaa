@@ -19,5 +19,5 @@ Here are a few areas where I excel:
 
 ## 💬 **Let’s Connect**
 
-I’d love to hear from you! Whether you have a question, want to collaborate, or just want to chat about [common interest or field], feel free to reach out:
+I’d love to hear from you! Whether you have a question, want to collaborate, or just want to chat:
 - **TG**: @devonions
