@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/3f37eb63-342f-406d-b9ed-cf7fbe5396a7)
+![image](https://github.com/user-attachments/assets/2a820449-a769-479c-a731-b33b4601947d)
+
 
 
 # 👋 Hello, I’m Vladimir!
