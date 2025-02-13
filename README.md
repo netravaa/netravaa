@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I’m Vladimir, a passionate software developer wi
 
 ## 💬 **Let’s Connect**
 
-I’d love to hear from you! Whether you have a question, want to collaborate, or just want to chat:
+I’d love to hear from you! Whether you have a question, want to collaborate
 - **TG**: @devonions
