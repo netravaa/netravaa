@@ -2,11 +2,6 @@
 
 
 
-# 👋 Hello, I’m Vladimir!
 
-Welcome to my GitHub profile! I’m Vladimir, a passionate software developer with a love for creative problem-solving, and open-source collaboration. 
-
-## 💬 **Let’s Connect**
-
-I’d love to hear from you! Whether you have a question, want to collaborate
+I’m Vladimir, a passionate software developer with a love for creative problem-solving, and open-source collaboration.
 - **TG**: @devonions
